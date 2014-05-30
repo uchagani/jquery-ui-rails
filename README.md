@@ -3,6 +3,11 @@
 [![Build Status](https://secure.travis-ci.org/joliss/jquery-ui-rails.png?branch=master)](http://travis-ci.org/joliss/jquery-ui-rails)
 [![Dependency Status](https://gemnasium.com/joliss/jquery-ui-rails.png)](https://gemnasium.com/joliss/jquery-ui-rails)
 
+
+# jquery-ui-rails that points to jquery-ui 1.11.0-beta 2.  I couldn't wait.
+
+
+
 This gem packages the jQuery UI assets (JavaScripts, stylesheets, and
 images) for the Rails [asset
 pipeline](http://guides.rubyonrails.org/asset_pipeline.html), so you never have
